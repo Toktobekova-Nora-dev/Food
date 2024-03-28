@@ -1,0 +1,148 @@
+@media (max-width: 1024px){
+    .sidebar{
+        width: 7%;       
+    }
+    .main-1{
+        width: 150px;
+
+    }
+    .main-1 img{
+        width: 132px;
+    }
+
+    .lero-tt input{
+        width: 240px;
+        font-size: 14px;
+
+    }
+    .lero h3{
+        font-size: 10px;
+    }
+    .lero p{
+        font-size: 8px;
+    }
+    .one-pizza{
+        padding-top: 10px;
+    }
+    .mark-00 h1{
+        height: 34px;
+       
+    }
+    .bb{
+        padding-left: 30px;
+    }
+    .buttun button{
+        width: 275px;
+    }
+}
+
+@media(max-width: 992px){
+    .content{
+        width: 52%;
+    }
+    .content-chees a{
+  font-size: 10px;
+    }
+    .Dishes select{
+        width: 90px;
+        height: 30px;
+        padding: 5px;
+
+    }
+    .Dishes h2{
+        font-size: 16px;
+    }
+    .bb{
+        padding-left: 16px;
+    }
+    
+
+}
+@media (max-width: 768px){
+    .content-top{
+       flex-direction: column;
+    }
+    .content-search input{
+        display: none;
+    }
+    .content-search ion-icon{
+        display: none;
+    }
+    .content-top h2{
+        font-size: 24px;
+        color: chocolate;
+    }
+    .content-top p{
+        font-size: 12px;
+        text-align: center;
+    }
+    .main-1{
+        width: 190px;
+    }
+    .pp0{
+        display: none;
+    }
+    .mark-00 h1{
+        display: none;
+    }
+    .lero-tt input{
+        width: 160px;
+    }
+    .buttun button{
+        width: 200px;
+    }
+}
+@media (max-width: 576px){
+    main {
+         flex-wrap: wrap;
+    }
+    .sidebar{
+        width: 12%;
+    }
+    .content-search input{
+        display: flex;
+        margin-top: 30px;
+    }
+    .content{
+        width: 81%;
+    }
+    .content-chees a{
+        display: none;
+    }
+    .content-search ion-icon{
+        display: flex;
+        top: 45px;
+    }
+    hr{
+        margin-top: 0%;
+    }
+    .order{
+        width: 100%;
+    }
+    .order-one button{
+        width: 100px;
+    }
+    .mark-00 h1{
+        display: flex;
+    }
+    .lero-tt input{
+        width: 400px;
+    }
+    .lero h3{
+        font-size: 20px;
+    }
+    .lero p{
+        font-size: 17px;
+        color: rgb(154, 130, 130);
+    }
+    .cool{
+        width: 50px;
+        height: 50px;
+    }
+    .buttun button{
+        width: 450px;
+    }
+}
+@media(max-width:451px){
+    
+}
